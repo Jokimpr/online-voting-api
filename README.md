@@ -1,5 +1,7 @@
 # 🗳️ Online Voting System
 
+[![CI/CD Pipeline](https://github.com/Jokimpr/online-voting-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Jokimpr/online-voting-api/actions/workflows/ci-cd.yml)
+
 A clean, production-ready online voting application built with Flask, featuring separate admin and student roles, secure authentication, and SQLite database.
 
 ## Features ✨
